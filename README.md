@@ -106,7 +106,8 @@ ProgrammingParadigm/
 - 搜索节点数: 10^4 - 10^6 级别
 - 棋力水平: 业余高段水平
 
-#### 2. 开放世界游戏Demo (OpenWorld-UE5)
+
+#### 2. 开放世界游戏Demo
 
 **项目特点:**
 
