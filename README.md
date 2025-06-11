@@ -173,7 +173,7 @@ ProgrammingParadigm/
         └── Boss HealthComponent         # Boss生命组件
 ```
 
-![敌人系统三层架构](CourseProject\GenshinImpact\敌人类的设计.png)
+![敌人系统三层架构](CourseProject/GenshinImpact/敌人类的设计.png)
 
 **设计模式应用:**
 
