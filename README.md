@@ -16,7 +16,7 @@ ProgrammingParadigm/
 │   └── Assignment4/             # 第四次作业
 ├── CourseProject/               # 课程项目目录
     ├── Gomoku/                  # 基于PVS算法的五子棋AI项目
-    └── GenShinImpact/           # 基于UE5的类原神开放世界游戏Demo
+    └── GenshinImpact/           # 基于UE5的类原神开放世界游戏Demo
 
 ```
 
